@@ -1,0 +1,2 @@
+# Spr-kAI
+SpråkAI
